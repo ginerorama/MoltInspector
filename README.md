@@ -30,6 +30,16 @@ In MoltInspector Luminiscense data are preproccesed and transformed to binary fo
 <br />
 Figure1. Molt inspector generates a txt file showing the number of molt phases of each worn.
 
+
+To make a fast inspection of the molt phases, a clustermaps analysis has been implemeted to show trend-corrected data for up to 96 independently monitored animals
+
+
+
+
+
+
+
+
 ## Requires	
 Tkinter, Numpy, Matplotlib, Seaborn and Scipy modules
 
