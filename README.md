@@ -34,7 +34,12 @@ Figure1. Molt inspector generates a txt file showing the number of molt phases o
 To make a fast inspection of the molt phases, a clustermaps analysis has been implemeted to show trend-corrected data for up to 96 independently monitored animals
 
 
-
+<br />
+<br />
+<p align="center">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/clustermap_absence.pdf" width="950" height="800">
+<br />
+<br />
 
 
 
