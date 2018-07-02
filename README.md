@@ -46,6 +46,14 @@ Figure2. Clustermap showing trend-corrected data from larval development of 96 i
 Finally MoltInspector also enable to inspect luminescence signal reports from larval development of single animal.
 
 
+<br />
+<br />
+<p align="center">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/graphic.png" width="750" height="650">
+<br />
+<br />
+
+Figure3. Bioluminescence from a single animal. The absence of substrate intake during the molts provokes a decrease in the bioluminescence signal.
 
 
 
