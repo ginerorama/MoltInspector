@@ -25,9 +25,10 @@ In MoltInspector Luminiscense data are preproccesed and transformed to binary fo
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/MoltInspector/blob/master/main_window.png" width="750" height="800">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/molt_analysis.png" width="750" height="800">
 <br />
 <br />
+Figure1. Molt inspector generates a txt file showing the number of molt phases of each worn.
 
 ## Requires	
 Tkinter, Numpy, Matplotlib, Seaborn and Scipy modules
