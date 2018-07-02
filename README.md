@@ -9,11 +9,26 @@ Moltinspector is an automated tool that enables to analyze easily the luminiscen
 
 
 *A High-Throughput Method for the Analysis of Larval Developmental Phenotypes in Caenorhabditis elegans. María Olmedo, Mirjam Geibel, Marta Artal-Sanz, and Martha MerrowGenetics commications. 2015. 
- 
+
+
+<br />
+<br />
+<p align="center">
+<img src="
+https://github.com/ginerorama/MoltInspector/blob/master/main_window.png" width="750" height="800">
+<br />
+<br />
+
+
+
+
+
+
+
+
 ## Requires	
 Tkinter, Numpy, Matplotlib, Seaborn and Scipy modules
 
 ## Usage
 Available soon…!!
-
 
