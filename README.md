@@ -14,8 +14,7 @@ Moltinspector is an automated tool that enables to analyze easily the luminiscen
 <br />
 <br />
 <p align="center">
-<img src="
-https://github.com/ginerorama/MoltInspector/blob/master/main_window.png" width="750" height="800">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/main_window.png" width="750" height="800">
 <br />
 <br />
 
