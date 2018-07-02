@@ -37,7 +37,7 @@ clustermaps analysis has been implemeted in MoltInspector to show trend-correcte
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/MoltInspector/blob/master/clusermap.png" width="950" height="600">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/clusermap.png" width="950" height="500">
 <br />
 <br />
 
