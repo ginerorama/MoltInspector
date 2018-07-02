@@ -20,10 +20,14 @@ Moltinspector is an automated tool that enables to analyze easily the luminiscen
 
 
 
+In MoltInspector Luminiscense data are preproccesed and transformed to binary format to identified molt phase. Several paramaters can be modified to adjust the analysis for the binary transformation and molt phases.
 
-
-
-
+<br />
+<br />
+<p align="center">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/main_window.png" width="750" height="800">
+<br />
+<br />
 
 ## Requires	
 Tkinter, Numpy, Matplotlib, Seaborn and Scipy modules
