@@ -31,7 +31,7 @@ In MoltInspector Luminiscense data are preproccesed and transformed to binary fo
 Figure1. Molt inspector generates a txt file showing the number of molt phases of each worn.
 
 
-To make a fast inspection of the molt phases, a clustermaps analysis has been implemeted to show trend-corrected data for up to 96 independently monitored animals
+clustermaps analysis has been implemeted in MoltInspector to show trend-corrected data for up to 96 independently monitored animals making easy to find correlation between mutant animals and their molt phenotype. 
 
 
 <br />
@@ -40,6 +40,10 @@ To make a fast inspection of the molt phases, a clustermaps analysis has been im
 <img src="https://github.com/ginerorama/MoltInspector/blob/master/clusermap.png" width="950" height="600">
 <br />
 <br />
+
+Figure2. Clustermap showing trend-corrected data from larval development of 96 indepedently monitored animals. White space indicate molt phases.
+
+Finally MoltInspector also enable to inspect luminescence signal reports from larval development of single animal.
 
 
 
