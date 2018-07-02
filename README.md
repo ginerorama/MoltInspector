@@ -49,7 +49,7 @@ Finally MoltInspector also enable to inspect luminescence signal reports from la
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/MoltInspector/blob/master/graphic.png" width="750" height="650">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/graphic.png" width="750" height="500">
 <br />
 <br />
 
