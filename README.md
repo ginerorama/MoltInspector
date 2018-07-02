@@ -53,7 +53,7 @@ Finally MoltInspector also enable to inspect luminescence signal reports from la
 <br />
 <br />
 
-Figure3. Bioluminescence from a single animal. The absence of substrate intake during the molts provokes a decrease in the bioluminescence signal.
+Figure3. Bioluminescence from a single animal. The absence of substrate intake during the molts provokes a decrease in the bioluminescence signal.Intense decrease in the bioluminiscense is higlighted in blue.
 
 
 
