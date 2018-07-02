@@ -37,7 +37,7 @@ To make a fast inspection of the molt phases, a clustermaps analysis has been im
 <br />
 <br />
 <p align="center">
-<img src="https://github.com/ginerorama/MoltInspector/blob/master/clustermap_absence.pdf" width="950" height="800">
+<img src="https://github.com/ginerorama/MoltInspector/blob/master/clusermap.png" width="950" height="600">
 <br />
 <br />
 
